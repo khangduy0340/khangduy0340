@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi, I'm Alfred 👋
 
-<!--
-**khangduy0340/khangduy0340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and enthusiast of computer science. Since childhood, I've been captivated by the allure of technology and the limitless possibilities it offers
 
-Here are some ideas to get you started:
+<details>
+<summary>My top languages</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python|
+|     2| SQL   |
+|     3| C++   |
+
+</details>
+
+🎓 Currently pursuing my Bachelor's degree at The University of Adelaide
+🔭 My passion lies in exploring the intersection of artificial intelligence and reality, inspired by the groundbreaking concepts portrayed in movies like "The Matrix."
+😅 Fun fact: Growing up, I spent countless hours assembling and tinkering with Gundam model kits, fueling my fascination with robotics and automation.
+
+I'm best reached via <p><a href="mailto:khangduy0340@gmail.com">email</a></p>
