@@ -19,4 +19,4 @@ I'm a student and enthusiast of computer science. Since childhood, I've been cap
 
 😅 Fun fact: Growing up, I spent countless hours assembling and tinkering with Gundam model kits, fueling my fascination with robotics and automation.
 
-I'm best reached via <p><a href="mailto:khangduy0340@gmail.com">email</a></p>
+I'm best reached via <a href="mailto:khangduy0340@gmail.com">email</a>. I'm always open to interesting conversations and collaboration.
